@@ -7,6 +7,7 @@ Passionate about exploring the intersection of frontend and backend development.
 ### 💻 Tech Stack  
 
 **Languages**  
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -15,6 +16,7 @@ Passionate about exploring the intersection of frontend and backend development.
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
 **Frameworks & Libraries**  
+
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -22,6 +24,7 @@ Passionate about exploring the intersection of frontend and backend development.
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=white)
 
 **Tools**  
+
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=00C4FF)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=21D789)
 ![Rider](https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=F06B97)
